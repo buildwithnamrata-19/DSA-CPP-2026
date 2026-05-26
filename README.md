@@ -39,7 +39,7 @@
 
 ## LeetCode Profile
 
-Add your profile link here.
+coming soon.
 
 ## Target
 
