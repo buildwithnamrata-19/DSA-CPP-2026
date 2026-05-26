@@ -1,0 +1,19 @@
+# Arrays
+
+## Concepts Learned
+
+- Array Traversal
+- Hashing
+- unordered_map
+- unordered_set
+- Time Complexity Analysis
+
+## Problems
+
+| Problem | Difficulty | Time Complexity | Space Complexity | Status |
+|----------|----------|----------|----------|----------|
+| Two Sum | Easy | O(n) | O(n) | ✅ |
+| Contains Duplicate | Easy | O(n) | O(n) | ✅ |
+| Best Time to Buy and Sell Stock | Easy | O(n) | O(1) | ✅ |
+
+Problems Solved: 3
