@@ -25,28 +25,17 @@
 - Graphs
 - Dynamic Programming
 
-## Progress
+## Overall Progress
 
-| Topic | Problems Solved |
-|--------|--------|
-| Arrays | 0 |
-| Strings | 0 |
-| Hashing | 0 |
-| Binary Search | 0 |
-| Linked List | 0 |
-| Trees | 0 |
-| Graphs | 0 |
-| Dynamic Programming | 0 |
-
-**Total Progress:** 0 / 300
+3 / 300 Problems Solved
 
 ## Daily Log
 
 ### Day 1
 
-- [ ] Two Sum
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Two Sum
+- [x] Contains Duplicate
+- [x] Best Time to Buy and Sell Stock
 
 ## LeetCode Profile
 
