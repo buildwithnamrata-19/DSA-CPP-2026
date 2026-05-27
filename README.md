@@ -4,6 +4,7 @@
 
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
+- Prepare for SDE Interviews
 
 ## Language
 
@@ -26,7 +27,7 @@
 
 ## Overall Progress
 
-3 / 300 Problems Solved
+6 / 300 Problems Solved
 
 ## Daily Log
 
@@ -36,9 +37,15 @@
 - [x] Contains Duplicate
 - [x] Best Time to Buy and Sell Stock
 
+### Day 2
+
+- [x] Valid Palindrome
+- [x] Maximum Subarray
+- [x] Product of Array Except Self
+
 ## LeetCode Profile
 
-coming soon.
+Coming Soon
 
 ## Target
 
