@@ -4,7 +4,7 @@
 
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
-- Prepare for SDE Interviews
+  
 
 ## Language
 
