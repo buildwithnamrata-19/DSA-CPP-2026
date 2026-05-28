@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-6 / 300 Problems Solved
+9 / 300 Problems Solved
 
 ## Daily Log
 
@@ -42,6 +42,12 @@
 - [x] Valid Palindrome
 - [x] Maximum Subarray
 - [x] Product of Array Except Self
+
+### Day 3
+
+- [x] Container With Most Water
+- [x] Maximum Product Subarray
+- [x] Find Minimum In Rotated Sorted Array
 
 ## LeetCode Profile
 
