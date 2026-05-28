@@ -7,6 +7,10 @@
 - unordered_map
 - unordered_set
 - Time Complexity Analysis
+- Two Pointers
+- Prefix & Suffix Products
+- Kadane's Algorithm
+- Binary Search
 
 ## Problems
 
@@ -15,5 +19,11 @@
 | Two Sum | Easy | O(n) | O(n) | ✅ |
 | Contains Duplicate | Easy | O(n) | O(n) | ✅ |
 | Best Time to Buy and Sell Stock | Easy | O(n) | O(1) | ✅ |
+| Valid Palindrome | Easy | O(n) | O(1) | ✅ |
+| Maximum Subarray | Medium | O(n) | O(1) | ✅ |
+| Product of Array Except Self | Medium | O(n) | O(1) | ✅ |
+| Container With Most Water | Medium | O(n) | O(1) | ✅ |
+| Maximum Product Subarray | Medium | O(n) | O(1) | ✅ |
+| Find Minimum In Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
 
-Problems Solved: 3
+Problems Solved: 9
