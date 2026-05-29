@@ -11,6 +11,8 @@
 - Prefix & Suffix Products
 - Kadane's Algorithm
 - Binary Search
+- Rotated Binary Search
+- Peak Finding
 
 ## Problems
 
@@ -25,5 +27,8 @@
 | Container With Most Water | Medium | O(n) | O(1) | ✅ |
 | Maximum Product Subarray | Medium | O(n) | O(1) | ✅ |
 | Find Minimum In Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
+| Search Insert Position | Easy | O(log n) | O(1) | ✅ |
+| Search In Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
+| Find Peak Element | Medium | O(log n) | O(1) | ✅ |
 
-Problems Solved: 9
+Problems Solved: 12
