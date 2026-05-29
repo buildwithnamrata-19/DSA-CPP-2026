@@ -4,7 +4,6 @@
 
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
-  
 
 ## Language
 
@@ -27,7 +26,7 @@
 
 ## Overall Progress
 
-9 / 300 Problems Solved
+12 / 300 Problems Solved
 
 ## Daily Log
 
@@ -48,6 +47,12 @@
 - [x] Container With Most Water
 - [x] Maximum Product Subarray
 - [x] Find Minimum In Rotated Sorted Array
+
+### Day 4
+
+- [x] Search Insert Position
+- [x] Search In Rotated Sorted Array
+- [x] Find Peak Element
 
 ## LeetCode Profile
 
