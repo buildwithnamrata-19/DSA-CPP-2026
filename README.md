@@ -26,7 +26,7 @@
 
 ## Overall Progress
 
-12 / 300 Problems Solved
+15 / 300 Problems Solved
 
 ## Daily Log
 
@@ -53,6 +53,12 @@
 - [x] Search Insert Position
 - [x] Search In Rotated Sorted Array
 - [x] Find Peak Element
+
+### Day 5
+
+- [x] Maximum Average Subarray I
+- [x] Longest Substring Without Repeating Characters
+- [x] Permutation In String
 
 ## LeetCode Profile
 
