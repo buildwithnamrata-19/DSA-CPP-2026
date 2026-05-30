@@ -13,6 +13,9 @@
 - Binary Search
 - Rotated Binary Search
 - Peak Finding
+- Sliding Window
+- Fixed Size Window
+- Variable Size Window
 
 ## Problems
 
@@ -30,5 +33,8 @@
 | Search Insert Position | Easy | O(log n) | O(1) | ✅ |
 | Search In Rotated Sorted Array | Medium | O(log n) | O(1) | ✅ |
 | Find Peak Element | Medium | O(log n) | O(1) | ✅ |
+| Maximum Average Subarray I | Easy | O(n) | O(1) | ✅ |
+| Longest Substring Without Repeating Characters | Medium | O(n) | O(n) | ✅ |
+| Permutation In String | Medium | O(n) | O(1) | ✅ |
 
-Problems Solved: 12
+Problems Solved: 15
