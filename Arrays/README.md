@@ -16,6 +16,9 @@
 - Sliding Window
 - Fixed Size Window
 - Variable Size Window
+- Intervals
+- Greedy
+- Prefix Sum
 
 ## Problems
 
@@ -36,5 +39,8 @@
 | Maximum Average Subarray I | Easy | O(n) | O(1) | ✅ |
 | Longest Substring Without Repeating Characters | Medium | O(n) | O(n) | ✅ |
 | Permutation In String | Medium | O(n) | O(1) | ✅ |
+| Merge Intervals | Medium | O(n log n) | O(n) | ✅ |
+| Insert Interval | Medium | O(n) | O(n) | ✅ |
+| Subarray Sum Equals K | Medium | O(n) | O(n) | ✅ |
 
-Problems Solved: 15
+Problems Solved: 18
