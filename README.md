@@ -5,6 +5,7 @@
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
 
+
 ## Language
 
 - C++
@@ -26,7 +27,7 @@
 
 ## Overall Progress
 
-15 / 300 Problems Solved
+18 / 300 Problems Solved
 
 ## Daily Log
 
@@ -59,6 +60,12 @@
 - [x] Maximum Average Subarray I
 - [x] Longest Substring Without Repeating Characters
 - [x] Permutation In String
+
+### Day 6
+
+- [x] Merge Intervals
+- [x] Insert Interval
+- [x] Subarray Sum Equals K
 
 ## LeetCode Profile
 
