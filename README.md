@@ -4,7 +4,7 @@
 
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
-
+- Prepare for SDE Interviews
 
 ## Language
 
@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-18 / 300 Problems Solved
+21 / 300 Problems Solved
 
 ## Daily Log
 
@@ -66,6 +66,12 @@
 - [x] Merge Intervals
 - [x] Insert Interval
 - [x] Subarray Sum Equals K
+
+### Day 7
+
+- [x] Top K Frequent Elements
+- [x] Longest Consecutive Sequence
+- [x] 3Sum
 
 ## LeetCode Profile
 
