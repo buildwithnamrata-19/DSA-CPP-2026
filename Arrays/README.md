@@ -19,6 +19,9 @@
 - Intervals
 - Greedy
 - Prefix Sum
+- Heap / Priority Queue
+- Frequency Counting
+- Hash Set Optimization
 
 ## Problems
 
@@ -42,5 +45,8 @@
 | Merge Intervals | Medium | O(n log n) | O(n) | ✅ |
 | Insert Interval | Medium | O(n) | O(n) | ✅ |
 | Subarray Sum Equals K | Medium | O(n) | O(n) | ✅ |
+| Top K Frequent Elements | Medium | O(n log k) | O(n) | ✅ |
+| Longest Consecutive Sequence | Medium | O(n) | O(n) | ✅ |
+| 3Sum | Medium | O(n²) | O(1) | ✅ |
 
-Problems Solved: 18
+Problems Solved: 21
