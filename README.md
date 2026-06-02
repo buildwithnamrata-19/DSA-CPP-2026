@@ -26,7 +26,7 @@
 
 ## Overall Progress
 
-21 / 300 Problems Solved
+24 / 300 Problems Solved
 
 ## Daily Log
 
@@ -71,6 +71,12 @@
 - [x] Top K Frequent Elements
 - [x] Longest Consecutive Sequence
 - [x] 3Sum
+
+### Day 8
+
+- [x] Valid Anagram
+- [x] Longest Common Prefix
+- [x] Group Anagrams
 
 ## LeetCode Profile
 
