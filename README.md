@@ -4,6 +4,7 @@
 
 - Master Data Structures & Algorithms
 - Solve 300+ Problems
+- Prepare for SDE Interviews
 
 ## Language
 
@@ -26,7 +27,7 @@
 
 ## Overall Progress
 
-24 / 300 Problems Solved
+27 / 300 Problems Solved
 
 ## Daily Log
 
@@ -77,6 +78,12 @@
 - [x] Valid Anagram
 - [x] Longest Common Prefix
 - [x] Group Anagrams
+
+### Day 9
+
+- [x] Valid Palindrome
+- [x] Reverse Words In A String
+- [x] Longest Palindromic Substring
 
 ## LeetCode Profile
 
