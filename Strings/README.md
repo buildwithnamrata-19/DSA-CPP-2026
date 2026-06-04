@@ -10,6 +10,11 @@
 - String Parsing
 - Palindrome Detection
 - Expand Around Center
+- Hash Maps
+- Character Mapping
+- Stack
+- Bracket Matching
+- Advanced Sliding Window
 
 ## Problems
 
@@ -21,5 +26,8 @@
 | Valid Palindrome | Easy | O(n) | O(1) | ✅ |
 | Reverse Words In A String | Medium | O(n) | O(n) | ✅ |
 | Longest Palindromic Substring | Medium | O(n²) | O(1) | ✅ |
+| Isomorphic Strings | Easy | O(n) | O(n) | ✅ |
+| Valid Parentheses | Easy | O(n) | O(n) | ✅ |
+| Minimum Window Substring | Hard | O(n) | O(1) | ✅ |
 
-Problems Solved: 6
+Problems Solved: 9
