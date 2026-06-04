@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-27 / 300 Problems Solved
+30 / 300 Problems Solved
 
 ## Daily Log
 
@@ -84,6 +84,12 @@
 - [x] Valid Palindrome
 - [x] Reverse Words In A String
 - [x] Longest Palindromic Substring
+
+### Day 10
+
+- [x] Isomorphic Strings
+- [x] Valid Parentheses
+- [x] Minimum Window Substring
 
 ## LeetCode Profile
 
