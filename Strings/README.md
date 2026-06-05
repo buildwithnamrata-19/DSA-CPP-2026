@@ -15,6 +15,10 @@
 - Stack
 - Bracket Matching
 - Advanced Sliding Window
+- Frequency Counting
+- Anagram Detection
+- String Encoding
+- Serialization
 
 ## Problems
 
@@ -29,5 +33,8 @@
 | Isomorphic Strings | Easy | O(n) | O(n) | ✅ |
 | Valid Parentheses | Easy | O(n) | O(n) | ✅ |
 | Minimum Window Substring | Hard | O(n) | O(1) | ✅ |
+| Ransom Note | Easy | O(n) | O(1) | ✅ |
+| Find All Anagrams In A String | Medium | O(n) | O(1) | ✅ |
+| Encode and Decode Strings | Medium | O(n) | O(n) | ✅ |
 
-Problems Solved: 9
+Problems Solved: 12
