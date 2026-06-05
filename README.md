@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-30 / 300 Problems Solved
+33 / 300 Problems Solved
 
 ## Daily Log
 
@@ -90,6 +90,12 @@
 - [x] Isomorphic Strings
 - [x] Valid Parentheses
 - [x] Minimum Window Substring
+
+### Day 11
+
+- [x] Ransom Note
+- [x] Find All Anagrams In A String
+- [x] Encode and Decode Strings
 
 ## LeetCode Profile
 
