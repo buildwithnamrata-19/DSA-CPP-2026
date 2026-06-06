@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-33 / 300 Problems Solved
+36 / 300 Problems Solved
 
 ## Daily Log
 
@@ -96,6 +96,12 @@
 - [x] Ransom Note
 - [x] Find All Anagrams In A String
 - [x] Encode and Decode Strings
+
+### Day 12
+
+- [x] Longest Repeating Character Replacement
+- [x] Palindromic Substrings
+- [x] Longest Substring With At Most K Distinct Characters
 
 ## LeetCode Profile
 
