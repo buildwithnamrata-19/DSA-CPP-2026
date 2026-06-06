@@ -19,6 +19,9 @@
 - Anagram Detection
 - String Encoding
 - Serialization
+- Frequency Tracking
+- Palindrome Counting
+- Variable Sliding Window
 
 ## Problems
 
@@ -36,5 +39,8 @@
 | Ransom Note | Easy | O(n) | O(1) | ✅ |
 | Find All Anagrams In A String | Medium | O(n) | O(1) | ✅ |
 | Encode and Decode Strings | Medium | O(n) | O(n) | ✅ |
+| Longest Repeating Character Replacement | Medium | O(n) | O(1) | ✅ |
+| Palindromic Substrings | Medium | O(n²) | O(1) | ✅ |
+| Longest Substring With At Most K Distinct Characters | Medium | O(n) | O(k) | ✅ |
 
-Problems Solved: 12
+Problems Solved: 15
