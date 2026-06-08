@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-39 / 300 Problems Solved
+42 / 300 Problems Solved
 
 ## Daily Log
 
@@ -108,6 +108,12 @@
 * [x] Reverse Linked List
 * [x] Merge Two Sorted Lists
 * [x] Linked List Cycle
+
+### Day 14
+
+* [x] Middle Of Linked List
+* [x] Remove Nth Node From End
+* [x] Reorder List
 
 ## LeetCode Profile
 
