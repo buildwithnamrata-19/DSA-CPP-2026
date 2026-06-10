@@ -13,6 +13,10 @@
 - Length Equalization
 - Linked List Comparison
 - Carry Propagation
+- Deep Copy
+- Node Mapping
+- List Partitioning
+- Pointer Rewiring
 
 ## Problems
 
@@ -27,5 +31,8 @@
 | Intersection Of Two Linked Lists | Easy | O(n+m) | O(1) | ✅ |
 | Palindrome Linked List | Easy | O(n) | O(1) | ✅ |
 | Add Two Numbers | Medium | O(max(n,m)) | O(max(n,m)) | ✅ |
+| Copy List With Random Pointer | Medium | O(n) | O(n) | ✅ |
+| Swap Nodes In Pairs | Medium | O(n) | O(1) | ✅ |
+| Odd Even Linked List | Medium | O(n) | O(1) | ✅ |
 
-Problems Solved: 9
+Problems Solved: 12
