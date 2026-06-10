@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-42 / 300 Problems Solved
+45 / 300 Problems Solved
 
 ## Daily Log
 
@@ -114,6 +114,12 @@
 * [x] Middle Of Linked List
 * [x] Remove Nth Node From End
 * [x] Reorder List
+
+### Day 15
+
+* [x] Intersection Of Two Linked Lists
+* [x] Palindrome Linked List
+* [x] Add Two Numbers
 
 ## LeetCode Profile
 
