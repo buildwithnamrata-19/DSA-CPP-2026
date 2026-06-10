@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-45 / 300 Problems Solved
+48 / 300 Problems Solved
 
 ## Daily Log
 
@@ -120,6 +120,12 @@
 * [x] Intersection Of Two Linked Lists
 * [x] Palindrome Linked List
 * [x] Add Two Numbers
+
+### Day 16
+
+* [x] Copy List With Random Pointer
+* [x] Swap Nodes In Pairs
+* [x] Odd Even Linked List
 
 ## LeetCode Profile
 
