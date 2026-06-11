@@ -17,6 +17,9 @@
 - Node Mapping
 - List Partitioning
 - Pointer Rewiring
+- Group Reversal
+- Circular Linked Lists
+- Node Deletion Trick
 
 ## Problems
 
@@ -34,5 +37,8 @@
 | Copy List With Random Pointer | Medium | O(n) | O(n) | ✅ |
 | Swap Nodes In Pairs | Medium | O(n) | O(1) | ✅ |
 | Odd Even Linked List | Medium | O(n) | O(1) | ✅ |
+| Delete Node In A Linked List | Easy | O(1) | O(1) | ✅ |
+| Rotate List | Medium | O(n) | O(1) | ✅ |
+| Reverse Nodes In K Group | Hard | O(n) | O(n/k) | ✅ |
 
-Problems Solved: 12
+Problems Solved: 15
