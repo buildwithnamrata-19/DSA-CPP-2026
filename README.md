@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-48 / 300 Problems Solved
+51 / 300 Problems Solved
 
 ## Daily Log
 
@@ -126,6 +126,12 @@
 * [x] Copy List With Random Pointer
 * [x] Swap Nodes In Pairs
 * [x] Odd Even Linked List
+
+### Day 17
+
+* [x] Delete Node In A Linked List
+* [x] Rotate List
+* [x] Reverse Nodes In K Group
 
 ## LeetCode Profile
 
