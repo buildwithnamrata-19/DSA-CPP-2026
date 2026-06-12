@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-51 / 300 Problems Solved
+54 / 300 Problems Solved
 
 ## Daily Log
 
@@ -132,6 +132,12 @@
 * [x] Delete Node In A Linked List
 * [x] Rotate List
 * [x] Reverse Nodes In K Group
+
+### Day 18
+
+* [x] Valid Parentheses
+* [x] Min Stack
+* [x] Daily Temperatures
 
 ## LeetCode Profile
 
