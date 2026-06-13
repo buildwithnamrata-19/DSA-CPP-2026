@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-54 / 300 Problems Solved
+57 / 300 Problems Solved
 
 ## Daily Log
 
@@ -139,9 +139,15 @@
 * [x] Min Stack
 * [x] Daily Temperatures
 
+### Day 19
+
+* [x] Next Greater Element I
+* [x] Evaluate Reverse Polish Notation
+* [x] Car Fleet
+
 ## LeetCode Profile
 
-Coming Soon
+https://leetcode.com/u/Namrata_Dolas/
 
 ## Target
 
