@@ -147,7 +147,7 @@
 
 ## LeetCode Profile
 
-https://leetcode.com/u/Namrata_Dolas/
+Coming soon 
 
 ## Target
 
