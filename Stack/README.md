@@ -10,6 +10,10 @@
 * Next Greater Element Pattern
 * Expression Evaluation
 * Greedy + Stack
+* Previous Smaller Element
+* Next Smaller Element
+* Backtracking
+* Stack Simulation
 
 ## Problems
 
@@ -21,5 +25,8 @@
 | Next Greater Element I           | Easy       | O(n)            | O(n)             | ✅      |
 | Evaluate Reverse Polish Notation | Medium     | O(n)            | O(n)             | ✅      |
 | Car Fleet                        | Medium     | O(n log n)      | O(n)             | ✅      |
+| Largest Rectangle In Histogram   | Hard       | O(n)            | O(n)             | ✅      |
+| Generate Parentheses             | Medium     | O(4ⁿ/√n)        | O(n)             | ✅      |
+| Asteroid Collision               | Medium     | O(n)            | O(n)             | ✅      |
 
-Problems Solved: 6
+Problems Solved: 9
