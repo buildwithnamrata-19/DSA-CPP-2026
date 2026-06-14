@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-57 / 300 Problems Solved
+60 / 300 Problems Solved
 
 ## Daily Log
 
@@ -145,9 +145,15 @@
 * [x] Evaluate Reverse Polish Notation
 * [x] Car Fleet
 
+### Day 20
+
+* [x] Largest Rectangle In Histogram
+* [x] Generate Parentheses
+* [x] Asteroid Collision
+
 ## LeetCode Profile
 
-Coming soon 
+Namrata_Dolas
 
 ## Target
 
