@@ -14,6 +14,9 @@
 * Next Smaller Element
 * Backtracking
 * Stack Simulation
+* Digit Removal
+* Nested String Decoding
+* Path Simplification
 
 ## Problems
 
@@ -28,5 +31,8 @@
 | Largest Rectangle In Histogram   | Hard       | O(n)            | O(n)             | ✅      |
 | Generate Parentheses             | Medium     | O(4ⁿ/√n)        | O(n)             | ✅      |
 | Asteroid Collision               | Medium     | O(n)            | O(n)             | ✅      |
+| Remove K Digits                  | Medium     | O(n)            | O(n)             | ✅      |
+| Decode String                    | Medium     | O(n)            | O(n)             | ✅      |
+| Simplify Path                    | Medium     | O(n)            | O(n)             | ✅      |
 
-Problems Solved: 9
+Problems Solved: 12
