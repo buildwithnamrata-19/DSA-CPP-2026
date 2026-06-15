@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-60 / 300 Problems Solved
+63 / 300 Problems Solved
 
 ## Daily Log
 
@@ -151,9 +151,15 @@
 * [x] Generate Parentheses
 * [x] Asteroid Collision
 
+### Day 21
+
+* [x] Remove K Digits
+* [x] Decode String
+* [x] Simplify Path
+
 ## LeetCode Profile
 
-Namrata_Dolas
+Coming soon .. 
 
 ## Target
 
