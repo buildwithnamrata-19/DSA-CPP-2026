@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-63 / 300 Problems Solved
+66 / 300 Problems Solved
 
 ## Daily Log
 
@@ -157,9 +157,15 @@
 * [x] Decode String
 * [x] Simplify Path
 
+### Day 22
+
+* [x] Online Stock Span
+* [x] Basic Calculator
+* [x] Remove Duplicate Letters
+
 ## LeetCode Profile
 
-Coming soon .. 
+Namrata_Dolas
 
 ## Target
 
