@@ -17,6 +17,9 @@
 * Digit Removal
 * Nested String Decoding
 * Path Simplification
+* Span Calculation
+* Parentheses Handling
+* Lexicographical Optimization
 
 ## Problems
 
@@ -34,5 +37,8 @@
 | Remove K Digits                  | Medium     | O(n)            | O(n)             | ✅      |
 | Decode String                    | Medium     | O(n)            | O(n)             | ✅      |
 | Simplify Path                    | Medium     | O(n)            | O(n)             | ✅      |
+| Online Stock Span                | Medium     | O(1) Amortized  | O(n)             | ✅      |
+| Basic Calculator                 | Hard       | O(n)            | O(n)             | ✅      |
+| Remove Duplicate Letters         | Medium     | O(n)            | O(n)             | ✅      |
 
-Problems Solved: 12
+Problems Solved: 15
