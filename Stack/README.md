@@ -20,6 +20,10 @@
 * Span Calculation
 * Parentheses Handling
 * Lexicographical Optimization
+* Rain Water Trapping
+* Parentheses Scoring
+* Contribution Technique
+* Advanced Monotonic Stack
 
 ## Problems
 
@@ -40,5 +44,8 @@
 | Online Stock Span                | Medium     | O(1) Amortized  | O(n)             | ✅      |
 | Basic Calculator                 | Hard       | O(n)            | O(n)             | ✅      |
 | Remove Duplicate Letters         | Medium     | O(n)            | O(n)             | ✅      |
+| Trapping Rain Water              | Hard       | O(n)            | O(n)             | ✅      |
+| Score Of Parentheses             | Medium     | O(n)            | O(n)             | ✅      |
+| Sum Of Subarray Minimums         | Medium     | O(n)            | O(n)             | ✅      |
 
-Problems Solved: 15
+Problems Solved: 18
