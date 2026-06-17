@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-66 / 300 Problems Solved
+69 / 300 Problems Solved
 
 ## Daily Log
 
@@ -163,12 +163,29 @@
 * [x] Basic Calculator
 * [x] Remove Duplicate Letters
 
+### Day 23
+
+* [x] Trapping Rain Water
+* [x] Score Of Parentheses
+* [x] Sum Of Subarray Minimums
+
 ## LeetCode Profile
 
-Coming soon
+Username: will update soon ..
 
-## Target
+## Milestones
 
-* 100 Problems → Internship Ready
-* 200 Problems → Placement Ready
-* 300+ Problems → Product Company Ready
+* 100 Problems Solved
+* 200 Problems Solved
+* 300+ Problems Solved
+
+## Current Status
+
+* Arrays ✅ Completed
+* Strings ✅ Completed
+* Linked List ✅ Completed
+* Stack ✅ Completed
+* Queue 🔄 In Progress
+* Trees ⏳ Upcoming
+* Graphs ⏳ Upcoming
+* Dynamic Programming ⏳ Upcoming
