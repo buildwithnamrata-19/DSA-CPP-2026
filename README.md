@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-69 / 300 Problems Solved
+72 / 300 Problems Solved
 
 ## Daily Log
 
@@ -169,9 +169,15 @@
 * [x] Score Of Parentheses
 * [x] Sum Of Subarray Minimums
 
+### Day 24
+
+* [x] Implement Queue Using Stacks
+* [x] Number Of Recent Calls
+* [x] Dota2 Senate
+
 ## LeetCode Profile
 
-Username: will update soon ..
+Username: Namrata_Dolas
 
 ## Milestones
 
