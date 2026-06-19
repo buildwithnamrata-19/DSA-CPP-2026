@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-72 / 300 Problems Solved
+75 / 300 Problems Solved
 
 ## Daily Log
 
@@ -175,6 +175,12 @@
 * [x] Number Of Recent Calls
 * [x] Dota2 Senate
 
+### Day 25
+
+* [x] Design Circular Queue
+* [x] First Unique Character In A String
+* [x] Task Scheduler
+
 ## LeetCode Profile
 
 Username: Namrata_Dolas
@@ -187,11 +193,11 @@ Username: Namrata_Dolas
 
 ## Current Status
 
-* Arrays ✅ Completed
-* Strings ✅ Completed
-* Linked List ✅ Completed
-* Stack ✅ Completed
-* Queue 🔄 In Progress
+* Arrays ✅ Completed (21)
+* Strings ✅ Completed (15)
+* Linked List ✅ Completed (15)
+* Stack ✅ Completed (18)
+* Queue 🔄 In Progress (6)
 * Trees ⏳ Upcoming
 * Graphs ⏳ Upcoming
 * Dynamic Programming ⏳ Upcoming
