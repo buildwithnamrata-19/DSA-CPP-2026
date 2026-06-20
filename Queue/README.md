@@ -12,6 +12,9 @@
 * Queue Design
 * Frequency Counting
 * Scheduling Problems
+* Queue Rotation
+* Running Average
+* Index Simulation
 
 ## Problems
 
@@ -23,5 +26,8 @@
 | Design Circular Queue              | Medium     | O(1)            | O(k)             | ✅      |
 | First Unique Character In A String | Easy       | O(n)            | O(1)             | ✅      |
 | Task Scheduler                     | Medium     | O(n)            | O(1)             | ✅      |
+| Time Needed To Buy Tickets         | Easy       | O(n²)           | O(1)             | ✅      |
+| Moving Average From Data Stream    | Easy       | O(1)            | O(k)             | ✅      |
+| Reveal Cards In Increasing Order   | Medium     | O(n log n)      | O(n)             | ✅      |
 
-Problems Solved: 6
+Problems Solved: 9
