@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-78 / 300 Problems Solved
+81 / 300 Problems Solved
 
 ## Daily Log
 
@@ -187,6 +187,12 @@
 * [x] Moving Average From Data Stream
 * [x] Reveal Cards In Increasing Order
 
+### Day 27
+
+* [x] Design Hit Counter
+* [x] Number Of Students Unable To Eat Lunch
+* [x] Rotting Oranges
+
 ## LeetCode Profile
 
 Username: Namrata_Dolas
@@ -203,7 +209,7 @@ Username: Namrata_Dolas
 * Strings ✅ Completed (15)
 * Linked List ✅ Completed (15)
 * Stack ✅ Completed (18)
-* Queue 🔄 In Progress (9)
+* Queue 🔄 In Progress (12)
 * Trees ⏳ Upcoming
 * Graphs ⏳ Upcoming
 * Dynamic Programming ⏳ Upcoming
