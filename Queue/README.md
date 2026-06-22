@@ -18,6 +18,9 @@
 * Timestamp Tracking
 * Multi-Source BFS
 * Level Order Traversal
+* BFS (Breadth First Search)
+* State Space Search
+* Shortest Path in Unweighted Graph
 
 ## Problems
 
@@ -35,5 +38,8 @@
 | Design Hit Counter                     | Medium     | O(1) Amortized  | O(n)             | ✅      |
 | Number Of Students Unable To Eat Lunch | Easy       | O(n)            | O(1)             | ✅      |
 | Rotting Oranges                        | Medium     | O(m × n)        | O(m × n)         | ✅      |
+| Implement Stack Using Queues           | Easy       | O(n)            | O(n)             | ✅      |
+| Open The Lock                          | Medium     | O(10⁴)          | O(10⁴)           | ✅      |
+| Perfect Squares                        | Medium     | O(n√n)          | O(n)             | ✅      |
 
-Problems Solved: 12
+Problems Solved: 15
