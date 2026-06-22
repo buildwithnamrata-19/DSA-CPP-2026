@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-81 / 300 Problems Solved
+84 / 300 Problems Solved
 
 ## Daily Log
 
@@ -193,6 +193,12 @@
 * [x] Number Of Students Unable To Eat Lunch
 * [x] Rotting Oranges
 
+### Day 28
+
+* [x] Implement Stack Using Queues
+* [x] Open The Lock
+* [x] Perfect Squares
+
 ## LeetCode Profile
 
 Username: Namrata_Dolas
@@ -209,7 +215,7 @@ Username: Namrata_Dolas
 * Strings ✅ Completed (15)
 * Linked List ✅ Completed (15)
 * Stack ✅ Completed (18)
-* Queue 🔄 In Progress (12)
-* Trees ⏳ Upcoming
+* Queue ✅ Completed (15)
+* Trees 🔄 In Progress (Next Module)
 * Graphs ⏳ Upcoming
 * Dynamic Programming ⏳ Upcoming
