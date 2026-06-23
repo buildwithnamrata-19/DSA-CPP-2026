@@ -27,7 +27,7 @@
 
 ## Overall Progress
 
-84 / 300 Problems Solved
+87 / 300 Problems Solved
 
 ## Daily Log
 
@@ -199,6 +199,12 @@
 * [x] Open The Lock
 * [x] Perfect Squares
 
+### Day 29
+
+* [x] Invert Binary Tree
+* [x] Maximum Depth Of Binary Tree
+* [x] Same Tree
+
 ## LeetCode Profile
 
 Username: Namrata_Dolas
@@ -216,6 +222,6 @@ Username: Namrata_Dolas
 * Linked List ✅ Completed (15)
 * Stack ✅ Completed (18)
 * Queue ✅ Completed (15)
-* Trees 🔄 In Progress (Next Module)
+* Trees 🔄 In Progress (3)
 * Graphs ⏳ Upcoming
 * Dynamic Programming ⏳ Upcoming
