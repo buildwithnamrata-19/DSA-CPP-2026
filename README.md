@@ -1,16 +1,25 @@
 # DSA-CPP-2026
 
-## Goal
+## About
+
+This repository documents my Data Structures & Algorithms journey using C++.
+
+### Goals
 
 * Master Data Structures & Algorithms
-* Solve 300+ Problems
-* Prepare for SDE Interviews
+* Solve 300+ LeetCode Problems
+* Strengthen Problem-Solving Skills
+* Prepare for Software Engineering Interviews
+
+---
 
 ## Language
 
 * C++
 
-## Topics
+---
+
+## Topics Covered
 
 * Arrays
 * Strings
@@ -25,11 +34,21 @@
 * Graphs
 * Dynamic Programming
 
+---
+
 ## Overall Progress
 
-87 / 300 Problems Solved
+**90 / 300 Problems Solved**
 
-## Daily Log
+---
+
+## LeetCode Profile
+
+**Username:** Namrata_Dolas
+
+---
+
+## Daily Progress Log
 
 ### Day 1
 
@@ -205,23 +224,44 @@
 * [x] Maximum Depth Of Binary Tree
 * [x] Same Tree
 
-## LeetCode Profile
+### Day 30
 
-Username: Namrata_Dolas
+* [x] Balanced Binary Tree
+* [x] Diameter Of Binary Tree
+* [x] Subtree Of Another Tree
 
-## Milestones
-
-* 100 Problems Solved
-* 200 Problems Solved
-* 300+ Problems Solved
+---
 
 ## Current Status
 
-* Arrays ✅ Completed (21)
-* Strings ✅ Completed (15)
-* Linked List ✅ Completed (15)
-* Stack ✅ Completed (18)
-* Queue ✅ Completed (15)
-* Trees 🔄 In Progress (3)
-* Graphs ⏳ Upcoming
-* Dynamic Programming ⏳ Upcoming
+| Topic               | Status         | Problems |
+| ------------------- | -------------- | -------- |
+| Arrays              | ✅ Completed    | 21       |
+| Strings             | ✅ Completed    | 15       |
+| Linked List         | ✅ Completed    | 15       |
+| Stack               | ✅ Completed    | 18       |
+| Queue               | ✅ Completed    | 15       |
+| Trees               | 🔄 In Progress | 6        |
+| Graphs              | ⏳ Upcoming     | 0        |
+| Dynamic Programming | ⏳ Upcoming     | 0        |
+
+---
+
+## Milestones
+
+* [ ] 100 Problems Solved
+* [ ] 200 Problems Solved
+* [ ] 300+ Problems Solved
+
+---
+
+## Repository Stats
+
+* Total Problems Solved: 90
+* Current Streak: 30 Days 🔥
+* Modules Completed: 5
+* Current Module: Trees 🌳
+
+---
+
+⭐ Consistency beats intensity. One problem at a time.
