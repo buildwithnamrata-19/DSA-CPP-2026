@@ -230,38 +230,36 @@ This repository documents my Data Structures & Algorithms journey using C++.
 * [x] Diameter Of Binary Tree
 * [x] Subtree Of Another Tree
 
----
+Day 31
 
-## Current Status
+Binary Tree Level Order Traversal
 
-| Topic               | Status         | Problems |
-| ------------------- | -------------- | -------- |
-| Arrays              | ✅ Completed    | 21       |
-| Strings             | ✅ Completed    | 15       |
-| Linked List         | ✅ Completed    | 15       |
-| Stack               | ✅ Completed    | 18       |
-| Queue               | ✅ Completed    | 15       |
-| Trees               | 🔄 In Progress | 6        |
-| Graphs              | ⏳ Upcoming     | 0        |
-| Dynamic Programming | ⏳ Upcoming     | 0        |
+Lowest Common Ancestor Of A Binary Search Tree
 
----
+Validate Binary Search Tree
 
-## Milestones
+Current Status
+Topic	Status	Problems
+Arrays	✅ Completed	21
+Strings	✅ Completed	15
+Linked List	✅ Completed	15
+Stack	✅ Completed	18
+Queue	✅ Completed	15
+Trees	🔄 In Progress	9
+Graphs	⏳ Upcoming	0
+Dynamic Programming	⏳ Upcoming	0
+Milestones
 
-* [ ] 100 Problems Solved
-* [ ] 200 Problems Solved
-* [ ] 300+ Problems Solved
+100 Problems Solved
 
----
+200 Problems Solved
 
-## Repository Stats
+300+ Problems Solved
 
-* Total Problems Solved: 90
-* Current Streak: 30 Days 🔥
-* Modules Completed: 5
-* Current Module: Trees 🌳
-
----
+Repository Stats
+Total Problems Solved: 93
+Current Streak: 31 Days 🔥
+Modules Completed: 5
+Current Module: Trees 🌳
 
 ⭐ Consistency beats intensity. One problem at a time.
