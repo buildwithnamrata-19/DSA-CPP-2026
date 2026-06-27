@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Overall Progress
 
-**93 / 300 Problems Solved**
+**96 / 300 Problems Solved**
 
 ---
 
@@ -60,7 +60,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 * [x] Valid Palindrome
 * [x] Maximum Subarray
-* [x] Product of Array Except Self
+* [x] Product Of Array Except Self
 
 ### Day 3
 
@@ -114,7 +114,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 * [x] Ransom Note
 * [x] Find All Anagrams In A String
-* [x] Encode and Decode Strings
+* [x] Encode And Decode Strings
 
 ### Day 12
 
@@ -236,6 +236,12 @@ This repository documents my Data Structures & Algorithms journey using C++.
 * [x] Lowest Common Ancestor Of A Binary Search Tree
 * [x] Validate Binary Search Tree
 
+### Day 32
+
+* [x] Binary Tree Right Side View
+* [x] Kth Smallest Element In A BST
+* [x] Binary Tree Maximum Path Sum
+
 ---
 
 ## Current Status
@@ -247,7 +253,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 | Linked List         | ✅ Completed    |       15 |
 | Stack               | ✅ Completed    |       18 |
 | Queue               | ✅ Completed    |       15 |
-| Trees               | 🔄 In Progress |        9 |
+| Trees               | 🔄 In Progress |       12 |
 | Graphs              | ⏳ Upcoming     |        0 |
 | Dynamic Programming | ⏳ Upcoming     |        0 |
 
@@ -263,8 +269,8 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Repository Stats
 
-* **Total Problems Solved:** 93
-* **Current Streak:** 31 Days 🔥
+* **Total Problems Solved:** 96
+* **Current Streak:** 32 Days 🔥
 * **Modules Completed:** 5
 * **Current Module:** Trees 🌳
 
