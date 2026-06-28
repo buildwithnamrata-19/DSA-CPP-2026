@@ -26,10 +26,16 @@
 - Good Nodes Traversal
 - Tree Dynamic Programming
 - Maximum Path Sum
+- Root-to-Leaf Paths
+- Path Sum
+- Symmetric Tree
+- Mirror Tree
 - Divide and Conquer
 - Range Validation
 - Queue-Based Tree Traversal
 - Hash Map Optimization
+- Backtracking
+- String Path Construction
 
 ## Problems
 
@@ -50,5 +56,8 @@
 | Binary Tree Zigzag Level Order Traversal | Medium | O(n) | O(n) | ✅ |
 | Count Good Nodes In Binary Tree | Medium | O(n) | O(h) | ✅ |
 | Construct Binary Tree From Preorder And Inorder Traversal | Medium | O(n) | O(n) | ✅ |
+| Binary Tree Paths | Easy | O(n²) | O(h) | ✅ |
+| Path Sum | Easy | O(n) | O(h) | ✅ |
+| Symmetric Tree | Easy | O(n) | O(h) | ✅ |
 
-Problems Solved: **15**
+**Problems Solved: 18**
