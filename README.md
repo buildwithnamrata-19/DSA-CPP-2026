@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Overall Progress
 
-**96 / 300 Problems Solved**
+**102 / 300 Problems Solved**
 
 ---
 
@@ -242,6 +242,18 @@ This repository documents my Data Structures & Algorithms journey using C++.
 * [x] Kth Smallest Element In A BST
 * [x] Binary Tree Maximum Path Sum
 
+### Day 33
+
+* [x] Binary Tree Zigzag Level Order Traversal
+* [x] Count Good Nodes In Binary Tree
+* [x] Construct Binary Tree From Preorder And Inorder Traversal
+
+### Day 34
+
+* [x] Binary Tree Paths
+* [x] Path Sum
+* [x] Symmetric Tree
+
 ---
 
 ## Current Status
@@ -253,7 +265,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 | Linked List         | ✅ Completed    |       15 |
 | Stack               | ✅ Completed    |       18 |
 | Queue               | ✅ Completed    |       15 |
-| Trees               | 🔄 In Progress |       12 |
+| Trees               | 🔄 In Progress |       18 |
 | Graphs              | ⏳ Upcoming     |        0 |
 | Dynamic Programming | ⏳ Upcoming     |        0 |
 
@@ -261,7 +273,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Milestones
 
-* [ ] 100 Problems Solved
+* [x] **100 Problems Solved** 🎉
 * [ ] 200 Problems Solved
 * [ ] 300+ Problems Solved
 
@@ -269,8 +281,8 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Repository Stats
 
-* **Total Problems Solved:** 96
-* **Current Streak:** 32 Days 🔥
+* **Total Problems Solved:** 102
+* **Current Streak:** 34 Days 🔥
 * **Modules Completed:** 5
 * **Current Module:** Trees 🌳
 
