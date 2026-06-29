@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Overall Progress
 
-**102 / 300 Problems Solved**
+**105 / 300 Problems Solved**
 
 ---
 
@@ -54,7 +54,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 * [x] Two Sum
 * [x] Contains Duplicate
-* [x] Best Time to Buy and Sell Stock
+* [x] Best Time To Buy And Sell Stock
 
 ### Day 2
 
@@ -254,20 +254,26 @@ This repository documents my Data Structures & Algorithms journey using C++.
 * [x] Path Sum
 * [x] Symmetric Tree
 
+### Day 35
+
+* [x] Path Sum II
+* [x] Binary Tree Inorder Traversal
+* [x] Binary Tree Preorder Traversal
+
 ---
 
 ## Current Status
 
-| Topic               | Status         | Problems |
-| ------------------- | -------------- | -------: |
-| Arrays              | ✅ Completed    |       21 |
-| Strings             | ✅ Completed    |       15 |
-| Linked List         | ✅ Completed    |       15 |
-| Stack               | ✅ Completed    |       18 |
-| Queue               | ✅ Completed    |       15 |
-| Trees               | 🔄 In Progress |       18 |
-| Graphs              | ⏳ Upcoming     |        0 |
-| Dynamic Programming | ⏳ Upcoming     |        0 |
+| Topic               |    Status   | Problems |
+| :------------------ | :---------: | -------: |
+| Arrays              | ✅ Completed |       21 |
+| Strings             | ✅ Completed |       15 |
+| Linked List         | ✅ Completed |       15 |
+| Stack               | ✅ Completed |       18 |
+| Queue               | ✅ Completed |       15 |
+| Trees               | ✅ Completed |       21 |
+| Graphs              |  ⏳ Upcoming |        0 |
+| Dynamic Programming |  ⏳ Upcoming |        0 |
 
 ---
 
@@ -281,10 +287,10 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Repository Stats
 
-* **Total Problems Solved:** 102
-* **Current Streak:** 34 Days 🔥
-* **Modules Completed:** 5
-* **Current Module:** Trees 🌳
+* **Total Problems Solved:** 105
+* **Current Streak:** 35 Days 🔥
+* **Modules Completed:** 6
+* **Current Module:** Graphs 🌐
 
 ---
 
