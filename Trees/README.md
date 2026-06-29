@@ -28,6 +28,7 @@
 - Maximum Path Sum
 - Root-to-Leaf Paths
 - Path Sum
+- Path Sum II
 - Symmetric Tree
 - Mirror Tree
 - Divide and Conquer
@@ -59,5 +60,8 @@
 | Binary Tree Paths | Easy | O(n²) | O(h) | ✅ |
 | Path Sum | Easy | O(n) | O(h) | ✅ |
 | Symmetric Tree | Easy | O(n) | O(h) | ✅ |
+| Path Sum II | Medium | O(n) | O(h) | ✅ |
+| Binary Tree Inorder Traversal | Easy | O(n) | O(h) | ✅ |
+| Binary Tree Preorder Traversal | Easy | O(n) | O(h) | ✅ |
 
-**Problems Solved: 18**
+**Problems Solved: 21**
