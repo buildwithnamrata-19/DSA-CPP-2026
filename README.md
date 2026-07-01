@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Overall Progress
 
-**105 / 300 Problems Solved**
+**108 / 300 Problems Solved**
 
 ---
 
@@ -260,20 +260,26 @@ This repository documents my Data Structures & Algorithms journey using C++.
 * [x] Binary Tree Inorder Traversal
 * [x] Binary Tree Preorder Traversal
 
+### Day 36
+
+* [x] Find If Path Exists In Graph
+* [x] Number Of Connected Components In An Undirected Graph
+* [x] Clone Graph
+
 ---
 
 ## Current Status
 
-| Topic               |    Status   | Problems |
-| :------------------ | :---------: | -------: |
-| Arrays              | ✅ Completed |       21 |
-| Strings             | ✅ Completed |       15 |
-| Linked List         | ✅ Completed |       15 |
-| Stack               | ✅ Completed |       18 |
-| Queue               | ✅ Completed |       15 |
-| Trees               | ✅ Completed |       21 |
-| Graphs              |  ⏳ Upcoming |        0 |
-| Dynamic Programming |  ⏳ Upcoming |        0 |
+| Topic               |     Status     | Problems |
+| :------------------ | :------------: | -------: |
+| Arrays              |   ✅ Completed  |       21 |
+| Strings             |   ✅ Completed  |       15 |
+| Linked List         |   ✅ Completed  |       15 |
+| Stack               |   ✅ Completed  |       18 |
+| Queue               |   ✅ Completed  |       15 |
+| Trees               |   ✅ Completed  |       21 |
+| Graphs              | 🔄 In Progress |        3 |
+| Dynamic Programming |   ⏳ Upcoming   |        0 |
 
 ---
 
@@ -287,8 +293,8 @@ This repository documents my Data Structures & Algorithms journey using C++.
 
 ## Repository Stats
 
-* **Total Problems Solved:** 105
-* **Current Streak:** 35 Days 🔥
+* **Total Problems Solved:** 108
+* **Current Streak:** 36 Days 🔥
 * **Modules Completed:** 6
 * **Current Module:** Graphs 🌐
 
