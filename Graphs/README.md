@@ -19,6 +19,15 @@
 - Matrix Traversal
 - Island Counting
 - Area Calculation
+- Topological Sort
+- Kahn's Algorithm
+- Directed Acyclic Graph (DAG)
+- Indegree Calculation
+- Cycle Detection
+- Course Scheduling
+- Union-Find (Disjoint Set Union)
+- Path Compression
+- Union By Rank
 
 ## Problems
 
@@ -30,5 +39,8 @@
 | Number Of Islands | Medium | O(m × n) | O(m × n) | ✅ |
 | Max Area Of Island | Medium | O(m × n) | O(m × n) | ✅ |
 | Pacific Atlantic Water Flow | Medium | O(m × n) | O(m × n) | ✅ |
+| Course Schedule | Medium | O(V + E) | O(V + E) | ✅ |
+| Course Schedule II | Medium | O(V + E) | O(V + E) | ✅ |
+| Redundant Connection | Medium | O(n · α(n)) | O(n) | ✅ |
 
-**Problems Solved: 6**
+**Problems Solved: 9**
