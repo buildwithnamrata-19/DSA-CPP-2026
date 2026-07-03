@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 
 ## Overall Progress
 
-**111 / 300 Problems Solved**
+**114 / 300 Problems Solved**
 
 ---
 
@@ -272,6 +272,12 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 - [x] Max Area Of Island
 - [x] Pacific Atlantic Water Flow
 
+### Day 38
+
+- [x] Course Schedule
+- [x] Course Schedule II
+- [x] Redundant Connection
+
 ---
 
 ## Current Status
@@ -284,7 +290,7 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 | Stack | ✅ Completed | 18 |
 | Queue | ✅ Completed | 15 |
 | Trees | ✅ Completed | 21 |
-| Graphs | 🔄 In Progress | 6 |
+| Graphs | 🔄 In Progress | 9 |
 | Dynamic Programming | ⏳ Upcoming | 0 |
 
 ---
@@ -299,8 +305,8 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 
 ## Repository Stats
 
-- **Total Problems Solved:** 111
-- **Current Streak:** 37 Days 🔥
+- **Total Problems Solved:** 114
+- **Current Streak:** 38 Days 🔥
 - **Modules Completed:** 6
 - **Current Module:** Graphs 🌐
 
