@@ -283,7 +283,7 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 ## Current Status
 
 | Topic | Status | Problems |
-| :------------------ | :------------: | -------: |
+| :----- | :----: | -------: |
 | Arrays | ✅ Completed | 21 |
 | Strings | ✅ Completed | 15 |
 | Linked List | ✅ Completed | 15 |
@@ -309,7 +309,18 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 - **Current Streak:** 38 Days 🔥
 - **Modules Completed:** 6
 - **Current Module:** Graphs 🌐
+- **Consistency:** 38 consecutive days of coding & committing
 
 ---
 
-⭐ **Consistency beats intensity. One problem at a time.**
+## Upcoming Goals
+
+- Complete the Graphs module
+- Start Dynamic Programming
+- Reach 150+ LeetCode problems
+- Reach 200+ problems before placement season
+- Complete 300+ curated interview problems
+
+---
+
+> **"Consistency beats intensity. One problem at a time."** ⭐
