@@ -28,6 +28,16 @@
 - Union-Find (Disjoint Set Union)
 - Path Compression
 - Union By Rank
+- Weighted Graph
+- Shortest Path
+- Dijkstra's Algorithm
+- Priority Queue (Min Heap)
+- Greedy Algorithm
+- State Space Search
+- BFS with Constraints
+- Eulerian Path
+- Hierholzer's Algorithm
+- Lexicographical Traversal
 
 ## Problems
 
@@ -42,5 +52,8 @@
 | Course Schedule | Medium | O(V + E) | O(V + E) | ✅ |
 | Course Schedule II | Medium | O(V + E) | O(V + E) | ✅ |
 | Redundant Connection | Medium | O(n · α(n)) | O(n) | ✅ |
+| Network Delay Time | Medium | O((V + E) log V) | O(V + E) | ✅ |
+| Cheapest Flights Within K Stops | Medium | O(E × K) | O(V + E) | ✅ |
+| Reconstruct Itinerary | Hard | O(E log E) | O(E) | ✅ |
 
-**Problems Solved: 9**
+**Problems Solved: 12**
