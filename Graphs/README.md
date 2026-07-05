@@ -38,6 +38,11 @@
 - Eulerian Path
 - Hierholzer's Algorithm
 - Lexicographical Traversal
+- Multi-Source BFS
+- Graph Relaxation
+- Bellman-Ford Style Optimization
+
+---
 
 ## Problems
 
@@ -56,4 +61,44 @@
 | Cheapest Flights Within K Stops | Medium | O(E × K) | O(V + E) | ✅ |
 | Reconstruct Itinerary | Hard | O(E log E) | O(E) | ✅ |
 
-**Problems Solved: 12**
+---
+
+## Summary
+
+| Category | Count |
+|----------|------:|
+| Easy | 1 |
+| Medium | 10 |
+| Hard | 1 |
+
+**Problems Solved:** **12**
+
+---
+
+## Key Algorithms Covered
+
+- DFS
+- BFS
+- Multi-Source BFS
+- Topological Sorting (Kahn's Algorithm)
+- Union-Find (Disjoint Set Union)
+- Dijkstra's Algorithm
+- Modified BFS
+- Priority Queue (Min Heap)
+- Hierholzer's Algorithm
+- Greedy Graph Traversal
+- Graph Construction
+- Cycle Detection
+- Connected Components
+- Graph Cloning
+
+---
+
+## Next Problems
+
+- [ ] Swim In Rising Water (Hard)
+- [ ] Alien Dictionary (Hard)
+- [ ] Word Ladder (Hard)
+- [ ] Min Cost To Connect All Points (Medium)
+- [ ] Critical Connections In A Network (Hard)
+- [ ] Find The City With The Smallest Number Of Neighbors (Medium)
