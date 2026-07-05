@@ -38,7 +38,7 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 
 ## Overall Progress
 
-**114 / 300 Problems Solved**
+**117 / 300 Problems Solved**
 
 ---
 
@@ -278,6 +278,12 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 - [x] Course Schedule II
 - [x] Redundant Connection
 
+### Day 39
+
+- [x] Network Delay Time
+- [x] Cheapest Flights Within K Stops
+- [x] Reconstruct Itinerary
+
 ---
 
 ## Current Status
@@ -290,7 +296,7 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 | Stack | ✅ Completed | 18 |
 | Queue | ✅ Completed | 15 |
 | Trees | ✅ Completed | 21 |
-| Graphs | 🔄 In Progress | 9 |
+| Graphs | 🔄 In Progress | 12 |
 | Dynamic Programming | ⏳ Upcoming | 0 |
 
 ---
@@ -305,11 +311,11 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 
 ## Repository Stats
 
-- **Total Problems Solved:** 114
-- **Current Streak:** 38 Days 🔥
+- **Total Problems Solved:** 117
+- **Current Streak:** 39 Days 🔥
 - **Modules Completed:** 6
 - **Current Module:** Graphs 🌐
-- **Consistency:** 38 consecutive days of coding & committing
+- **Consistency:** 39 consecutive days of coding & committing
 
 ---
 
@@ -317,10 +323,10 @@ This repository documents my Data Structures & Algorithms journey using C++. It 
 
 - Complete the Graphs module
 - Start Dynamic Programming
-- Reach 150+ LeetCode problems
-- Reach 200+ problems before placement season
-- Complete 300+ curated interview problems
+- Reach 150+ LeetCode Problems
+- Reach 200+ Problems before placement season
+- Complete 300+ Curated Interview Problems
 
 ---
 
-> **"Consistency beats intensity. One problem at a time."** ⭐
+> ⭐ **Consistency beats intensity. One problem at a time.**
